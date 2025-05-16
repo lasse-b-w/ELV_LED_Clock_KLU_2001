@@ -11,7 +11,8 @@ Stay tuned...
 [Kreis-LED-Uhr.pdf](https://github.com/user-attachments/files/20258449/Kreis-LED-Uhr.pdf)
 
 Arduino Nano Clone v3.0 for basic stuff and multiplexing the leds.\
-ESP8266-01 with AT-Firmware (2018) for updating via NTP-Server.
+ESP8266-01 with AT-Firmware (2018) for updating via NTP-Server.\
+For programming i used VSCode with PlatformIO
 
 Implemented:
 - changing display for date (year and day+month)\
