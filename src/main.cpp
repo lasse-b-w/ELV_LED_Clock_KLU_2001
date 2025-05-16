@@ -21,12 +21,12 @@
 #include <SoftwareSerial.h>
 #include "TimeLib.h"
 
-#include "config.h"
-#include "clock_digits.h"
-#include "clock_grid.h"
-#include "clock_inner.h"
-#include "clock_outer.h"
-#include "clock_ntp.h"
+#include "..\lib\config.c"
+#include "..\lib\clock_digits.c"
+#include "..\lib\clock_grid.c"
+#include "..\lib\clock_inner.c"
+#include "..\lib\clock_outer.c"
+#include "..\lib\clock_ntp.c"
 
 
 void showTime(int hh, int mm, int ss) {
