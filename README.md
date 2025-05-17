@@ -15,10 +15,10 @@ ESP8266-01 with AT-Firmware (2018) for updating via NTP-Server.\
 For programming i used VSCode with PlatformIO
 
 Implemented:
-- changing display for date (year and day+month)\
-- double-led for full hours\
-- udpating via NTP-Server\
-- auto update at 8:27 am and pm\
+- changing display for date (year and day+month)
+- double-led for full hours
+- udpating via NTP-Server
+- auto update at 8:27 am and pm
 - power down ESP8266 via CH_PD pin
 
 Front:  
